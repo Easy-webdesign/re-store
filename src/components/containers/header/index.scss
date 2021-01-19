@@ -1,0 +1,10 @@
+.header{
+    padding: 10px 50px;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0px 4px 5px rgba(0, 0, 0, .1);
+    
+    .collapse{
+        flex-grow: 0;
+    }
+}
